@@ -1,12 +1,12 @@
-# Hands-on Flask-03-04: If-For structure, Handling Routes and Get-Post Methods
+# Hands-on Flask: If-For structure, Handling Routes and Get-Post Methods
 
-Purpose of the this hands-on training is to give the students introductory knowledge of how to handle forms.
+Purpose of the this hands-on is to give the readers introductory knowledge of how to handle forms.
 
 ![HTTP Methods in Flask](./http-methods-flask.png)
 
 ## Learning Outcomes
 
-At the end of the this hands-on training, students will be able to;
+At the end of the this hands-on training, readers will be able to;
 
 - build a simple web application with Flask framework.
 
@@ -103,7 +103,8 @@ When sending request, the client can send data with using different http methods
 
 ## Part 3 - Write a Web Application using If conditions and for loops
 
-- Copy `flask-03-handling-routes-and-if-for` within `my-repository` repo
+- Copy `flask-03-handling-routes-and-if-for` within `FLASK-If-Handling-Routes-and-Get-Post-Methods
+` repo
 
 - Under `Flask_If_for_structure` folder within `flask-03-handling-routes-and-if-for` repo
 
